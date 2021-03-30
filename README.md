@@ -6,7 +6,7 @@ Liquidity mining the smart way. Earn rewards without the risk by securely syncin
 
 Facts 🧝🏽‍♀️
 
-- Initial distribution through @BalancerLabs LBP
+- Initial distribution through Balancer Labs LBP
 - Has configurable inflation initially set to 100,000 tokens every 7 days
 
 Usage 🧪
