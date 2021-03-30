@@ -12,17 +12,17 @@ Facts 🧝🏽‍♀️
 Usage 🧪
 
 - Token is used for governance and rewards
-- Inflation is used for treasury and nft holder rewards
+- Inflation is used for treasury and NFT holder rewards
 
 Long Term 🪐
 
 - Push the Universal Vault standard
 - Integrate the standard with as many protocols as possible
-- Find more uses for the nft - possibilities are endless
+- Find more uses for the NFT - possibilities are endless
 
 ## Community
 
-- Voting: https://snapshot.org/#/methodfinance.eth/all  
+- Voting: https://snapshot.org/#/methodfinance.eth
 - Discord: https://discord.gg/dE6qXp5mFE 
 - Telegram: https://t.me/method_finance 
 - Medium: https://method-finance.medium.com
