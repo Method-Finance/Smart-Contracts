@@ -4,17 +4,17 @@ Liquidity mining the smart way. Earn rewards without the risk by securely syncin
 
 [Token contract](https://etherscan.io/token/0x84bA4aEcfDe39D69686a841BAb434C32d179a169)
 
-Facts 🧝🏽‍♀️
+Facts
 
 - Initial distribution through Balancer Labs LBP
 - Has configurable inflation initially set to 100,000 tokens every 7 days
 
-Usage 🧪
+Usage
 
 - Token is used for governance and rewards
 - Inflation is used for treasury and NFT holder rewards
 
-Long Term 🪐
+Long Term
 
 - Push the Universal Vault standard
 - Integrate the standard with as many protocols as possible
