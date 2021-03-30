@@ -1,4 +1,4 @@
-# Method ⚗️
+# Method
 
 Liquidity mining the smart way. Earn rewards without the risk by securely syncing staked assets via your Method NFT SmartVault™.
 
