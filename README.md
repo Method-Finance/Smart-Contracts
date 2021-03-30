@@ -26,7 +26,7 @@ Long Term 🪐
 - Discord: https://discord.gg/dE6qXp5mFE 
 - Telegram: https://t.me/method_finance 
 - Medium: https://method-finance.medium.com
-- Twitter: https://twitter.com/Method_Finances  
+- Twitter: https://twitter.com/Method_Finance 
 
 ## Addresses
 
