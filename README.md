@@ -1,6 +1,6 @@
 # Method
 
-Liquidity mining the smart way. Earn rewards without the risk by securely syncing staked assets via your Method NFT SmartVault™.
+Liquidity mining the smart way. Earn rewards without the risk by securely syncing staked assets via your Method NFT vault.
 
 [Token contract](https://etherscan.io/token/0x84bA4aEcfDe39D69686a841BAb434C32d179a169)
 
