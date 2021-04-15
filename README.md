@@ -37,3 +37,4 @@ This is a test in prod. *Use at your own risk.*
 | Method token          | [0x84bA4aEcfDe39D69686a841BAb434C32d179a169](https://etherscan.io/address/0x84bA4aEcfDe39D69686a841BAb434C32d179a169)                                                   | ERC20 token                                                                                      |
 | NFT Factory       | [0xf52fbd056ed1f1ab01d4296fce136d6c0a2bbfaf](https://etherscan.io/address/0xf52fbd056ed1f1ab01d4296fce136d6c0a2bbfaf)                             | NFT Factory       
 | Vault Template  | [0xbe7a52E9067fEc647cc2F795c5c38287E573b4E1](https://etherscan.io/address/0xbe7a52E9067fEc647cc2F795c5c38287E573b4E1) | Vault template
+| UniStaker  | [0x6cA69b90394D31fF0a233b3F422CF15411567FA8](https://etherscan.io/address/0x6cA69b90394D31fF0a233b3F422CF15411567FA8) | Universal Staking Contract
